@@ -2,7 +2,7 @@ let random= Math.random()
 console.log(random)
 let a=prompt("Enter the first number")
 let b=prompt("Enter operation")
-let c=prompt("Enter second number")
+let c=prompt("Enter second number");
 
 let obj= {
     "+": "-",
