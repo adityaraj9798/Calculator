@@ -7,7 +7,7 @@ let c=prompt("Enter second number");
 let obj= {
     "+": "-",
     "*": "+",
-    "-": "/",
+    "-": "/",;
     "/": "**",
 }
 if(random > 0.1){
